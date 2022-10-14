@@ -24,16 +24,18 @@ But there a few mistakes and changes to do for next revision :
 
 - Change the silkscreen color, the blue is definitey not wise when you want to write on it with black/blue permanent marker. Might try white FR4 with black silkscreen. 
 
-
-
 Few photos :
 
-![IMG_1084.JPG](C:\Users\mailw\OneDrive%20-%20ESEO\Projet\GL019_LED_testbench\GL019\photos_PCBs\IMG_1084.JPG)
+
+
+![IMG_1084.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1084.JPG)
+
+![IMG_1085.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1085.JPG)
 
 
 
-![IMG_1085.JPG](C:\Users\mailw\OneDrive%20-%20ESEO\Projet\GL019_LED_testbench\GL019\photos_PCBs\IMG_1085.JPG)
+![IMG_1088.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1088.JPG)
 
 
 
-![IMG_1089.JPG](C:\Users\mailw\OneDrive%20-%20ESEO\Projet\GL019_LED_testbench\GL019\photos_PCBs\IMG_1089.JPG)
+![IMG_1089.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1089.JPG)
