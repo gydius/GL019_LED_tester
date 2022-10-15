@@ -26,16 +26,10 @@ But there a few mistakes and changes to do for next revision :
 
 Few photos :
 
-
-
 ![IMG_1084.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1084.JPG)
 
-![IMG_1085.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1085.JPG)
+![IMG_1085.JPG](images\IMG_1085.JPG)
 
+![IMG_1088.JPG](images\IMG_1088.JPG)
 
-
-![IMG_1088.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1088.JPG)
-
-
-
-![IMG_1089.JPG](C:\Users\mailw\Documents\GitHub\GL019_LED_tester\images\IMG_1089.JPG)
+![IMG_1089.JPG](images\IMG_1089.JPG)
